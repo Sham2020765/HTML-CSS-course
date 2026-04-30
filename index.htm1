@@ -6,6 +6,7 @@
     <title>Mohammad's Portfolio</title>
     <!-- This is the full Bootstrap link your site needs to look good -->
     <link href="https://jsdelivr.net" rel="stylesheet">
+<link href="https://googleapis.com" rel="stylesheet">
 </head>
 <body class="bg-light">
 
